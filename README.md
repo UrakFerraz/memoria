@@ -20,9 +20,3 @@ Digitar pelo terminal:
 
 ### Locais:
 A versão final compilada pelo webpack/babel está dentro da pasta 'dist', arquivos de desenvolvimento estão na pasta 'src'.
-
-Muito obrigado pela oportunidade de participar desse desafio.
-
-Atenciosamente
-
-Urak Ferraz
