@@ -17,7 +17,7 @@ Utilizei webpack para criar o projeto com ES6 modules, abra o terminal e digite 
 
 COMANDO PARA EXECUTAR O PROJETO: comando1: npm init, comando2: npm i, comando3: npm run start:dev
 
-A versão final está dentro da pasta 'dist',
+A versão final compilada pelo webpack/babel está dentro da pasta 'dist',
 já arquivos de desenvolvimento estão na pasta 'src'.
 
 
