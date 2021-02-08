@@ -16,7 +16,9 @@ COMO EXECUTAR O PROJETO:
 Utilizei webpack para criar o projeto com ES6 modules, abra o terminal e digite os 3 comando abaixo (na mesma sequência abaixo) na raiz do projeto (mesmo local de webpack.config.js) o webpack irá usar o babel para compilar os arquivos js e o css. Depois criará um bundle.js na pasta ./dist/assets/js/
 
 COMANDO PARA EXECUTAR O PROJETO:
-comando1: npm init, comando2: npm i, comando3: npm run start:dev
+comando1: npm init
+comando2: npm i
+comando3: npm run start:dev
 
 A versão final está dentro da pasta 'dist',
 já arquivos de desenvolvimento estão na pasta 'src'.
